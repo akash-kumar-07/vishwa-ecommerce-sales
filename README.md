@@ -46,6 +46,3 @@ This project showcases how data analysis and visualization can drive better busi
 
 For any questions or collaboration opportunities, feel free to reach out via  [[LinkedIn](https://www.linkedin.com/in/akash-kumar-07/)].
 
----
-
-Feel free to adjust this summary to fit the specific details and structure of your project!
